@@ -283,6 +283,9 @@
 				"Flintlock",
 				"Boomerang",
 				"Skeng"
+				"Hedge Shears"
+				"Sickle"
+				"Trowel"	
 			]
 		},
 		"SECONDARY_WEAPON": {
@@ -318,6 +321,9 @@
 				"Antimatter Pistol",
 				"Grenade Belt",
 				"Trident"
+				"Spade"
+				"Shovel"
+				"Grass Shears"
 			]
 		},
 		"TERTIARY_WEAPON": {
@@ -370,6 +376,7 @@
 				"Bioweapon",
 				"Ballista",
 				"Thunderclap"
+				"LAWn Mower"
 			]
 		},
 		"HELMET": {
@@ -722,6 +729,7 @@
 				"Winter Jacket",
 				"'Wool' Sweater",
 				"Pants"
+				"Punxi's Time-Suit"
 			]
 		},
 		"LOWER_ARMOR": {
@@ -963,6 +971,8 @@
 				"Jowdan's",
 				"Hat",
 				"Fursuit Feetpaws"
+				"Farmer Boots"
+				"Time-Lord Black Shoes"
 			]
 		}
 	},
@@ -1796,6 +1806,7 @@
 			"Xulle Noelle",
 			"Your Reflection",
 			"Zapper Trapper Blaster"
+			"Punxi Time Variant"
 		]
 	},
 	"LOCATION": {
@@ -2367,6 +2378,7 @@
 			"Weedcrept",
 			"Winterscaped",
 			"Wintry"
+			"Clock-work"
 		]
 	}
 }
